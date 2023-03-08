@@ -1,4 +1,4 @@
-# lyk-project3
+# Project 3 Cloud-based Big Data Systems Project
 
 ## To do list
 1. Identify the dataset to use in this project
